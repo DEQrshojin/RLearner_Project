@@ -46,7 +46,7 @@ PROCESS FLOW
 .
 .
 
-N. Job done--delivert product, let's have a pint.
+N. Job done--deliver product, let's have a pint.
 
 -------------------------------------------------------------------------------
 ANCILLARY
