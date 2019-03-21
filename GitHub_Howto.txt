@@ -16,3 +16,9 @@ PROJECT-GITHUB INTERFACE
 2. Click 'Fetch' from the 'Origin' (GitHub.com repo)
 3. The Fetch option then becomes a 'Pull origin' command. Click on that. This
    step downloads all of the changes since your last Pull.
+4. Do your work on your local files (R or whatever).
+5. When you're done, done do what's call a push:
+   a. Write a 'Commit' description
+   b. Commit to 'master'
+   c. Push to 'master'
+6. You're done. For now.
