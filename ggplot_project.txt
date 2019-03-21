@@ -64,3 +64,13 @@ ANCILLARY
    you are not allowed to use functions that you would otherwise access out of
    hand. You have to find new and novel ways to accomplish what you would have
    otherwise done in a few minutes. Karma will be the judge on this one.
+
+
+Roster Order
+Janani G
+Chamille H
+Anna W
+Josh E
+Smita M
+Ryan S
+Brian F
