@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+GITHUB BASICS
+1. Create a GitHub account on https://github.com/
+2. Download and install GitHub Desktop from https://desktop.github.com/
+3. Link your GitHub.com account to GitHub Desktop using the instructions from
+   the application (easy!).
+4. Navigate to https://github.com/shojiwan/RLearner_Project and "clone" the 
+   repository to your local drive (or E drive).
+5. The cloning process will install all of the content from the GitHub.com repo
+   onto your local drive (or E drive).
+
+-------------------------------------------------------------------------------
+PROJECT-GITHUB INTERFACE
+1. When it's your turn to work on a specific task, open GitHub Desktop and open
+   the RLearner_Project.
+2. Perform a 'Pull' of the Origin
