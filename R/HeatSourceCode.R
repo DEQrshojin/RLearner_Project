@@ -117,8 +117,8 @@ plot(sim.kmA, ShadeMeanAPct, xlim=c(60,0), ylim=c(0,100), type="l",
 plot(sim.kmA, ShadeMeanAPct, xlim=c(60,0), ylim=c(0,100), type="l", 
      lty=1, lwd=2, col="blue", xlab =" ", ylab=" ", las = 1, frame = TRUE, 
      cex.lab = 1.20, cex.axis = 1.20) #, xaxt = "n" )
-?plot #BaseGrafX
-?par  #BaseGrafX
+# ?plot #BaseGrafX
+# ?par  #BaseGrafX
 grid(col = "gray", lty = "dotted", lwd = 1)
 text(60, 0.0,labels = paste("Sim", simnoA),cex = 1.10, adj=c(0,0))
 mtext("River Kilometer", side = 1, line=3, cex=1.20,outer=FALSE)
