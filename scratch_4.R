@@ -45,7 +45,7 @@ pl <- ggplot(data, aes(x = LON, y = LAT, label = SITE)) + geom_text(size = 20) +
       annotate('text', x = 2, y = 6, parse = T, label = lblL, hjust = 0,
                size = 10) + theme_classic()
 
-ggsave(pl, 'C:/Users/rshojin/Desktop/RMS/003_deq/github/DEMO/data/plot.png',
+ggsave(pl, 'C:/Users/rshojin/Desktop/RMS/003_deq/github/DEMO/plot.png',
        width = 11, height = 8.5, units = 'in', dpi = 300)
 
 
